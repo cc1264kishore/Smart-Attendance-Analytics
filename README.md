@@ -193,3 +193,6 @@ Face Recognition
         ▼
 Attendance Stored in attendance.csv
 ```
+
+
+<img width="761" height="603" alt="Screenshot 2026-07-01 190748" src="https://github.com/user-attachments/assets/0263815c-fe7d-48d1-8c25-2d1e70c6a544" />
