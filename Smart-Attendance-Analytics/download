@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.vscode/
+trainer.yml
+dataset/cropped/
+dataset/*/
+!dataset/.gitkeep
+# keep template csv files if you want to track them
+# remove them from git if you prefer local-only data
